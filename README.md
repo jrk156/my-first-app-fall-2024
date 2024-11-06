@@ -45,3 +45,11 @@ Run the unemployment report
 python app/unemployment.py
 
 ```
+
+
+Run the stocks report
+
+```
+python app/stocks.py
+
+```
