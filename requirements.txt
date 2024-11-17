@@ -1,6 +1,11 @@
 #requirements.txt
 
 python-dotenv
+
 pandas
+
 requests
+
 plotly
+
+pytest
