@@ -7,14 +7,14 @@ import json
 from pprint import pprint
 from statistics import mean
 
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 import requests
 from plotly.express import line
 
+from app.alpha_service import API_KEY
 
-load_dotenv() # looks in the ".env" file for env vars
-
-API_KEY = os.getenv("ALPHAVANTAGE_API_KEY", default="demo")
+#load_dotenv() # looks in the ".env" file for env vars
+#API_KEY = os.getenv("ALPHAVANTAGE_API_KEY", default="demo")
 
 
 def fetch_unemployment_json():
