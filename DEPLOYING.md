@@ -9,7 +9,7 @@ References:
 
 Login to [Render](https://dashboard.render.com) and visit the dashboard.
 
-Create a New "Web Service". 
+Create a New "Web Service".
 
 Update the name, as desired.
 
